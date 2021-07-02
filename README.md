@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ysfcndgr&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
 
