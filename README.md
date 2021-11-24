@@ -4,7 +4,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ysfcndgr&theme=react&border=61dafb&hide_border=true">
 
-<img src= "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ysfcndgr&layout=compact&theme=react&hide_border=true&border=61dafb">
 
 
 
